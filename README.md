@@ -1,9 +1,9 @@
-# Image-Processing-Lab - EC69505
+# Image Processing Lab - EC69505
 
 Experiments
 
-1. Read A BMP file,rotation and scaling of image
-2. Histogram matching and equalization
+1. Read A BMP file, Rotation and Scaling of Images
+2. Histogram Matching and Equalization
 3. Spatial Filtering
-4. Frequency domain procesing
-5. Morphological operations
+4. Frequency Domain Processing
+5. Morphological Operations
