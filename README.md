@@ -1,4 +1,4 @@
-# Image Processing Lab - EC69505
+# Image Processing Lab
 
 Experiments
 
